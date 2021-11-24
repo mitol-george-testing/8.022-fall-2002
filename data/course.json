@@ -1,0 +1,29 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Electromagnetism"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "3e8e5abe-b6a0-77a2-b1b8-e9c23872716d",
+      "3adb760d-56d9-5b6b-28ed-8f6578dd315a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Physics II: Electricity and Magnetism",
+  "course_description": "Parallel to 8.02: Physics II, but more advanced mathematically. Some knowledge of vector calculus assumed. Maxwell's equations, in both differential and integral form. Electrostatic and magnetic vector potential. Properties of dielectrics and magnetic materials. In addition to the theoretical subject matter, several experiments in electricity and magnetism are performed by the students in the laboratory.\n",
+  "department_numbers": [
+    "8"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "8.022",
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams with Solutions"
+  ],
+  "title": "Course Metadata"
+}
